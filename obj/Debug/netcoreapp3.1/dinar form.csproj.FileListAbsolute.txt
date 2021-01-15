@@ -1,0 +1,18 @@
+D:\dinar form\bin\Debug\netcoreapp3.1\dinar form.exe
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.csprojAssemblyReference.cache
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar_form.Form1.resources
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.csproj.GenerateResource.cache
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.AssemblyInfoInputs.cache
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.AssemblyInfo.cs
+D:\dinar form\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.csproj.CopyComplete
+D:\dinar form\bin\Debug\netcoreapp3.1\dinar form.deps.json
+D:\dinar form\bin\Debug\netcoreapp3.1\dinar form.runtimeconfig.json
+D:\dinar form\bin\Debug\netcoreapp3.1\dinar form.runtimeconfig.dev.json
+D:\dinar form\bin\Debug\netcoreapp3.1\dinar form.dll
+D:\dinar form\bin\Debug\netcoreapp3.1\dinar form.pdb
+D:\dinar form\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.csproj.CoreCompileInputs.cache
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.dll
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.pdb
+D:\dinar form\obj\Debug\netcoreapp3.1\dinar form.genruntimeconfig.cache
